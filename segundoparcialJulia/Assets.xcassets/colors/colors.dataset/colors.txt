@@ -1,0 +1,5 @@
+fondo botones y cards - #2D3348
+fondo general - #021F36
+stamina_on - #71E858
+stamina_off - #444C42
+stamina_shadow - #90A87A
