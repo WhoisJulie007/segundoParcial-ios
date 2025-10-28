@@ -100,6 +100,8 @@ struct Equipamiento: View {
                 
                 //Julia
             }
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(Color.blue)
             
             
         }
